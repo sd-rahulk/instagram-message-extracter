@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Instagram Message Extracter",
+  "version": "1.0",
+  "description": "Displays all unread Instagram messages.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
